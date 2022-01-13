@@ -1,3 +1,4 @@
+import './Nav.scss'
 export const Nav = (props) => {
     return (
       <nav>

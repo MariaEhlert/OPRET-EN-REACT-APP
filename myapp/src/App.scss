@@ -1,3 +1,11 @@
 a{
   color: black;
 }
+
+.gridwrapper{
+  display: grid;
+  grid-template-columns: 20% 79%;
+  gap: 1%; 
+  width: 90%;
+  margin: 0 auto;
+}
