@@ -1,3 +1,4 @@
+import './Header.scss'
 export const Header = (props) => {
     //har lavet dette bare fordi jeg kunne :D
     const myStyle = {
