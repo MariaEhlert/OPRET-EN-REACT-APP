@@ -1,24 +1,21 @@
-main{
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
-
 a{
   color: black;
 }
-
 .gridwrapper{
   display: grid;
   grid-template-columns: 20% 79%;
   gap: 1%;
+  main{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
 }
 
 footer{
   text-align: center;
-}
-
-footer ul li{
-  display: inline-block;
-  margin-left: 2%;
+  li{
+    display: inline-block;
+    margin-left: 2%;
+  }
 }
